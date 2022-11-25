@@ -1,0 +1,22 @@
+[
+  {
+    "name": "pelota",
+    "price": 100,
+    "image": "asjaksas",
+    "description": "pelota de futbol",
+    "code": "asdfgh0",
+    "stock": 2,
+    "id": 1,
+    "timestamp": 1669325899800
+  },
+  {
+    "name": "botines",
+    "price": 200,
+    "image": "asjaksastegrwd",
+    "description": "botines de rugby",
+    "code": "kjyhgrefd",
+    "stock": 6,
+    "id": 2,
+    "timestamp": 1669325953585
+  }
+]
